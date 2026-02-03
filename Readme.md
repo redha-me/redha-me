@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Tableau and ML algorithms,Tenserflow , sklearn**
 
-- 👨‍💻 All of my projects are available at [https://github.com/redha-me](https://github.com/redha-me)
+- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/redha-me)
 
 - 💬 Ask me about **django, sveltejs, react js ,Tableau**
 
 - 📫 How to reach me **mechekakredha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences [https://www.linkedin.com//]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/redha-mechekak-1385a42ba/))
 
 - ⚡ Fun fact **I'm an inter-provincial commuter! I live in Quebec (Gatineau) but cross the border every day to study Data Science in Ontario.**
 
