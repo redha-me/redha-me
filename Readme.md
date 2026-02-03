@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **django, sveltejs, react js ,Tableau**
 
-- 📫 How to reach me **samimechekak@gmail.com**
+- 📫 How to reach me **mechekakredha@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
