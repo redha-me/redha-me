@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mechekakredha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com//]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/redha-mechekak-1385a42ba/))
+- 📄 Know about my experiences [https://www.linkedin.com/]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/redha-mechekak-1385a42ba/))
 
 - ⚡ Fun fact **I'm an inter-provincial commuter! I live in Quebec (Gatineau) but cross the border every day to study Data Science in Ontario.**
 
