@@ -1,4 +1,4 @@
-# Hi ðŸ‘‹, I'm Redha Mechekak
+# Hi 👋, I'm Redha Mechekak
 
 **Data Scientist | Full Stack Developer | Machine Learning Enthusiast**
 
@@ -6,17 +6,17 @@ I'm a passionate data scientist and web developer with a strong foundation in da
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
-- ðŸŽ“ **Education**: Data Science Diploma (College LaflÃ¨che Ottawa) - Graduating April 2026
-- ðŸ’¼ **Current Role**: Manager at Pizza Pizza (transitioning to data science)
-- ðŸŒ **Location**: Gatineau, Quebec (Cross-border learner studying in Ontario)
-- ðŸŽ¯ **Focus**: Building end-to-end data pipelines, machine learning models, and responsive web applications
-- ðŸ“Š **Specialization**: Data quality, data cleaning, exploratory analysis, and business intelligence
+- 🎓 **Education**: Data Science Diploma (College Laflèche Ottawa) - Graduating April 2026
+- 💼 **Current Role**: Manager at Pizza Pizza (transitioning to data science)
+- 🌍 **Location**: Gatineau, Quebec (Cross-border learner studying in Ontario)
+- 🎯 **Focus**: Building end-to-end data pipelines, machine learning models, and responsive web applications
+- 📊 **Specialization**: Data quality, data cleaning, exploratory analysis, and business intelligence
 
 ---
 
-## ðŸ’¡ What I'm Learning
+## 💡 What I'm Learning
 
 - **Machine Learning**: TensorFlow, scikit-learn, advanced ML algorithms (Random Forest, Chi-square testing)
 - **Data Analytics**: Tableau, advanced SQL, data pipeline development
@@ -25,7 +25,7 @@ I'm a passionate data scientist and web developer with a strong foundation in da
 
 ---
 
-## ðŸ› ï¸ Technical Stack
+## 🛠️ Technical Stack
 
 ### Data Science & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ I'm a passionate data scientist and web developer with a strong foundation in da
 
 ---
 
-## ðŸ“Œ Key Projects
+## 📌 Key Projects
 
 All my projects are available on my [GitHub profile](https://github.com/redha-me). Here's what I focus on:
 
@@ -71,7 +71,7 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 
 ---
 
-## ðŸ’¬ Ask Me About
+## 💬 Ask Me About
 
 - Django and backend development
 - React.js, Svelte, and modern frontend frameworks
@@ -83,7 +83,7 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 
 ---
 
-## ðŸ“« Let's Connect!
+## 📫 Let's Connect!
 
 <a href="mailto:mechekakredha@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -100,17 +100,17 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 
 ---
 
-## âš¡ Fun Fact
+## ⚡ Fun Fact
 
-ðŸš— **I'm an inter-provincial commuter!** I live in Gatineau, Quebec, but cross the border every day to study Data Science in Ottawa, Ontario. It's a unique routine that keeps me sharp and disciplinedâ€”much like debugging code! When I'm not studying or working, you'll find me at the gym pushing for personal fitness goals. ðŸ’ª
+🚗 **I'm an inter-provincial commuter!** I live in Gatineau, Quebec, but cross the border every day to study Data Science in Ottawa, Ontario. It's a unique routine that keeps me sharp and disciplined—much like debugging code! When I'm not studying or working, you'll find me at the gym pushing for personal fitness goals. 💪
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=redha-me&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redha-me&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-**Last Updated**: February 2026 | Actively learning and building! ðŸš€
+**Last Updated**: February 2026 | Actively learning and building! 🚀
