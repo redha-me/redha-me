@@ -106,12 +106,5 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 ---
 **Last Updated**: February 2026 | Actively learning and building! 🚀
 
-<!---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=redha-me&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redha-me&layout=compact&theme=dark&hide_border=true)
-
----!>
 
