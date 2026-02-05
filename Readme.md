@@ -103,14 +103,15 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 ## ⚡ Fun Fact
 
 🚗 **I'm an inter-provincial commuter!** I live in Gatineau, Quebec, but cross the border every day to study Data Science in Ottawa, Ontario. It's a unique routine that keeps me sharp and disciplined—much like debugging code! When I'm not studying or working, you'll find me at the gym pushing for personal fitness goals. 💪
-
 ---
+**Last Updated**: February 2026 | Actively learning and building! 🚀
+
+<!---
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=redha-me&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redha-me&layout=compact&theme=dark&hide_border=true)
 
----
+---!>
 
-**Last Updated**: February 2026 | Actively learning and building! 🚀
