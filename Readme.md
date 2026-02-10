@@ -91,7 +91,7 @@ All my projects are available on my [GitHub profile](https://github.com/redha-me
 <a href="https://www.linkedin.com/in/redha-mechekak-1385a42ba/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://dev.to/redha-me">
+<a href="https://dev.to/redha_mechekak_a65787a347">
   <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 <a href="https://github.com/redha-me">
