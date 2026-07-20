@@ -8,7 +8,7 @@ I'm a passionate data scientist and web developer with a strong foundation in da
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Data Science Diploma (College Laflèche Ottawa) - Graduating April 2026
+- 🎓 **Education**: Data Science Diploma (College La Cite Ottawa)
 - 💼 **Current Role**: Manager at Pizza Pizza (transitioning to data science)
 - 🌍 **Location**: Gatineau, Quebec (Cross-border learner studying in Ontario)
 - 🎯 **Focus**: Building end-to-end data pipelines, machine learning models, and responsive web applications
